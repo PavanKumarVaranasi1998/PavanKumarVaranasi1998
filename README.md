@@ -23,11 +23,11 @@
 Name      : Varanasi Pavan Kumar
 Role      : Senior Embedded Software Engineer
 Company   : Robert Bosch GmbH, Bangalore
-Domain    : Automotive ECU | AUTOSAR | Diagnostics
+Domain    : Automotive ECU | AUTOSAR | COM | Diagnostics
 Location  : Bangalore, India
 Experience: 4+ Years (Industry)
 Education : M.Tech Embedded Systems — Amrita University (CGPA 8.65/10)
-Passion   : Automotive Software + AI-Assisted Development
+Passion   : Firmware + AI-Assisted Development
 Status    : Open to Collaborations & Research
 ```
 
