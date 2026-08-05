@@ -228,10 +228,10 @@ Embedded firmware for real-time solar tracking. Implemented sensor acquisition, 
 
 ## Education
 
-| Degree | Institution | Year | Result |
-|---|---|---|---|
-| M.Tech – Embedded Systems | Amrita University, Coimbatore | 2021 – 2023 | **Gold Medalist** |
-| B.Tech – Electronics & Communication Engineering | Gayathri Vidhya Parishad, Visakhapatnam | 2016 – 2020 | — |
+| Degree | Institution | Year |
+|---|---|---|
+| M.Tech – Embedded Systems · Gold Medalist | Amrita University, Coimbatore | 2021 – 2023 |
+| B.Tech – Electronics & Communication Engineering | Gayathri Vidhya Parishad, Visakhapatnam | 2016 – 2020 |
 
 ---
 
