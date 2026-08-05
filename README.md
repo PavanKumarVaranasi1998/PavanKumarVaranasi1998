@@ -273,7 +273,7 @@ const char *learning_roadmap[] = {
 
 <br/><br/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PavanKumarVaranasi1998&theme=github-dark&hide_border=true&background=0D1117&ring=8ab4f8&fire=8ab4f8&currStreakLabel=8ab4f8)
+![GitHub Streak](https://streak-stats.demolab.com?user=PavanKumarVaranasi1998&theme=github-dark&hide_border=true&background=0D1117&ring=8ab4f8&fire=8ab4f8&currStreakLabel=8ab4f8)
 
 </div>
 
@@ -283,7 +283,7 @@ const char *learning_roadmap[] = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=PavanKumarVaranasi1998&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=PavanKumarVaranasi1998&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -293,7 +293,7 @@ const char *learning_roadmap[] = {
 
 <div align="center">
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PavanKumarVaranasi1998&bg_color=0D1117&color=8ab4f8&line=0F3460&point=8ab4f8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PavanKumarVaranasi1998&bg_color=0D1117&color=8ab4f8&line=8ab4f8&point=ffffff&area=true&area_color=0F3460&hide_border=true&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
