@@ -266,12 +266,10 @@ const char *learning_roadmap[] = {
 
 <div align="center">
 
-<a href="https://github.com/PavanKumarVaranasi1998">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PavanKumarVaranasi1998&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8ab4f8&icon_color=8ab4f8"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavanKumarVaranasi1998&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=8ab4f8"/>
-</a>
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PavanKumarVaranasi1998&show_icons=true&theme=github_dark&count_private=true&hide_border=true&bg_color=0D1117&title_color=8ab4f8&icon_color=8ab4f8&cache_seconds=1800) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PavanKumarVaranasi1998&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=8ab4f8&langs_count=8&cache_seconds=1800) |
+|:---:|:---:|
 
-<br/><br/>
+<br/>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=PavanKumarVaranasi1998&theme=github-dark&hide_border=true&background=0D1117&ring=8ab4f8&fire=8ab4f8&currStreakLabel=8ab4f8)
 
