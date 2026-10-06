@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=8AB4F8&center=true&vCenter=true&width=700&lines=Embedded+Firmware+Engineer+%7C+4%2B+Years;Safety-Critical+ECU+Software+%40+Robert+Bosch;CAN+%7C+FlexRay+%7C+LIN+%7C+UDS+%7C+AUTOSAR;ARM+Cortex+%7C+Bare+Metal+%7C+RTOS;Passionate+about+Low-Level+Systems+Programming)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=8AB4F8&center=true&vCenter=true&width=700&lines=Embedded+Firmware+Engineer+%7C+4%2B+Years;Safety-Critical+ECU+Software+%40+Robert+Bosch;CAN+%7C+FlexRay+%7C+LIN+%7C+UDS+%7C+AUTOSAR;ARM+Cortex+%7C+Bare+Metal+%7C+RTOS;Pre+%2F+Post-Silicon+Validation+%7C+SoC+Firmware;Passionate+about+Low-Level+Systems+Programming)](https://git.io/typing-svg)
 
 <br/>
 
@@ -36,7 +36,7 @@ const Engineer_t pavan = {
     .company    = "Robert Bosch GmbH, Bangalore",
     .domain     = "Firmware | Communication Drivers | Diagnostics | ECU",
     .experience = "4+ Years (Industry)",
-    .education  = "M.Tech Embedded Systems — Amrita University | Gold Medalist",
+    .education  = "M.Tech Embedded Systems — Amrita University",
     .status     = "Open to Collaborations & Opportunities"
 };
 ```
@@ -44,6 +44,26 @@ const Engineer_t pavan = {
 <br/>
 
 Embedded Firmware Engineer with **4+ years** of experience developing safety-critical embedded software for automotive ECUs at **Robert Bosch**. Experienced in Embedded C/C++, AUTOSAR, RTOS, UDS diagnostics, CAN/LIN/FlexRay communication drivers, firmware integration, debugging, and embedded system validation. Passionate about low-level systems programming, embedded firmware architecture, hardware-software co-design, and continuously expanding expertise in **ARM Cortex, RISC-V, Bare Metal Programming, and SoC firmware development**.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## Role Fit — Firmware & Silicon Validation
+
+> How my hands-on experience maps to low-level firmware, bare-metal bring-up, and pre/post-silicon validation work.
+
+<div align="center">
+
+| Focus Area | What I Bring |
+|:---|:---|
+| **Embedded Firmware in C/C++** | 4+ years building and integrating production ECU firmware in Embedded C/C++ |
+| **Low-Level / Driver Development** | Hands-on CAN, FlexRay, LIN communication-driver design, integration, and timing analysis |
+| **Firmware Debugging & RCA** | Trace-based debugging, interface analysis, and systematic fault isolation on target hardware |
+| **Hardware-Software Co-Design** | Cross-functional ECU bring-up with hardware teams; resolving interface & timing issues |
+| **Firmware Validation** | Boundary, integration, and interface verification; coverage analysis with VectorCAST |
+| **Agile / Industry Practices** | Code reviews, CI/CD improvement, automation, and iterative delivery in an automotive SPICE environment |
+| **Bare Metal · ARM · RISC-V · SoC** | Actively building depth (see *Firmware Interests* & *Currently Learning* below) |
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -186,9 +206,10 @@ const char *learning_roadmap[] = {
     "ARM Cortex-M Architecture & Register-Level Programming",
     "Bare Metal Firmware — startup code, vector tables, linker scripts",
     "Bootloader Development — flash management, secure boot concepts",
-    "Embedded Linux — kernel modules, device tree, platform drivers",
+    "Pre/Post-Silicon Validation — bare-metal tests & low-level debug tools",
+    "Emulation & Simulation Platforms — firmware enablement and bring-up",
+    "Silicon Debug — TRACE32 / OpenOCD / JTAG workflows",
     "Memory Mapping — MMU, MPU, memory-mapped I/O",
-    "Firmware Validation — coverage analysis, fault injection",
     "RISC-V — ISA study and bare-metal bring-up",
     "High-Speed Interfaces — PCIe, DDR, AXI bus architecture",
     NULL
@@ -238,7 +259,7 @@ const char *learning_roadmap[] = {
 
 | Degree | Institution | Year |
 |:---|:---|:---:|
-| M.Tech – Embedded Systems &nbsp; 🥇 Gold Medalist | Amrita University, Coimbatore | 2021 – 2023 |
+| M.Tech – Embedded Systems | Amrita University, Coimbatore | 2021 – 2023 |
 | B.Tech – Electronics & Communication Engineering | Gayathri Vidhya Parishad, Visakhapatnam | 2016 – 2020 |
 
 </div>
@@ -251,7 +272,6 @@ const char *learning_roadmap[] = {
 
 | | Award | Details |
 |:---:|:---|:---|
-| 🥇 | Gold Medal — M.Tech | Academic excellence, Amrita University |
 | 🏅 | 1st Place — Dual-A-Thon Hackathon | Developed an innovative IoT firmware solution |
 | ⭐ | Best Intern — Appleton Innovations | Recognized among 35 interns for outstanding performance |
 | 🎤 | Workshop Speaker | IoT & Embedded Systems workshops across colleges in Andhra Pradesh |
