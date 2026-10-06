@@ -47,26 +47,6 @@ Embedded Firmware Engineer with **4+ years** of experience developing safety-cri
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Role Fit — Firmware & Silicon Validation
-
-> How my hands-on experience maps to low-level firmware, bare-metal bring-up, and pre/post-silicon validation work.
-
-<div align="center">
-
-| Focus Area | What I Bring |
-|:---|:---|
-| **Embedded Firmware in C/C++** | 4+ years building and integrating production ECU firmware in Embedded C/C++ |
-| **Low-Level / Driver Development** | Hands-on CAN, FlexRay, LIN communication-driver design, integration, and timing analysis |
-| **Firmware Debugging & RCA** | Trace-based debugging, interface analysis, and systematic fault isolation on target hardware |
-| **Hardware-Software Co-Design** | Cross-functional ECU bring-up with hardware teams; resolving interface & timing issues |
-| **Firmware Validation** | Boundary, integration, and interface verification; coverage analysis with VectorCAST |
-| **Agile / Industry Practices** | Code reviews, CI/CD improvement, automation, and iterative delivery in an automotive SPICE environment |
-| **Bare Metal · ARM · RISC-V · SoC** | Actively building depth (see *Firmware Interests* & *Currently Learning* below) |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## Professional Experience
 
 <details open>
