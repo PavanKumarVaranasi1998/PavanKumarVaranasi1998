@@ -162,42 +162,6 @@ Embedded Firmware Engineer with **4+ years** of experience developing safety-cri
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Firmware Interests
-
-> Technologies I am actively exploring to deepen my firmware expertise. No professional experience claimed — these represent current learning focus areas.
-
-<div align="center">
-
-| Category | Topics |
-|:---:|:---|
-| **Architecture** | Bare Metal Programming · ARM Cortex-M · RISC-V · SoC Architecture |
-| **Firmware Internals** | Bootloaders · Memory Mapping · Linker Scripts · Device Drivers · Embedded Linux |
-| **Debug & Trace** | JTAG · TRACE32 · OpenOCD · GDB |
-| **High-Speed Interfaces** | PCIe · DDR · AXI Bus |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## What I'm Currently Learning
-
-```c
-const char *learning_roadmap[] = {
-    "ARM Cortex-M Architecture & Register-Level Programming",
-    "Bare Metal Firmware — startup code, vector tables, linker scripts",
-    "Bootloader Development — flash management, secure boot concepts",
-    "Pre/Post-Silicon Validation — bare-metal tests & low-level debug tools",
-    "Emulation & Simulation Platforms — firmware enablement and bring-up",
-    "Silicon Debug — TRACE32 / OpenOCD / JTAG workflows",
-    "Memory Mapping — MMU, MPU, memory-mapped I/O",
-    "RISC-V — ISA study and bare-metal bring-up",
-    "High-Speed Interfaces — PCIe, DDR, AXI bus architecture",
-    NULL
-};
-```
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## Featured Projects
 
 <div align="center">
