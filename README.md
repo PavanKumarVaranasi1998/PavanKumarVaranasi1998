@@ -283,16 +283,6 @@ Embedded Firmware Engineer with **4+ years** of experience developing safety-cri
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=PavanKumarVaranasi1998&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8)
-
-</div>
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
