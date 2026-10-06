@@ -45,6 +45,20 @@ const Engineer_t pavan = {
 
 Embedded Firmware Engineer with **4+ years** of experience developing safety-critical embedded software for automotive ECUs at **Robert Bosch**. Experienced in Embedded C/C++, AUTOSAR, RTOS, UDS diagnostics, CAN/LIN/FlexRay communication drivers, firmware integration, debugging, and embedded system validation. Passionate about low-level systems programming, embedded firmware architecture, hardware-software co-design, and continuously expanding expertise in **ARM Cortex, RISC-V, Bare Metal Programming, and SoC firmware development**.
 
+<div align="center">
+
+| 🚀 At a Glance | |
+|:---|:---|
+| 💼 **Experience** | 4+ years in automotive & IoT embedded firmware |
+| 🏢 **Current Role** | Senior Embedded Software Engineer @ Robert Bosch |
+| 🎓 **Education** | M.Tech Embedded Systems · Amrita University |
+| 📜 **Certified** | GitHub Copilot — GH-300 (Microsoft) |
+| 🏆 **Recognition** | 5× Bosch awards for innovation, AI adoption & automation |
+| 🛠️ **Core Stack** | Embedded C/C++ · AUTOSAR · CAN/FlexRay/LIN · UDS · RTOS |
+| 📩 **Open to** | Embedded / Firmware Engineering opportunities |
+
+</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Professional Experience
@@ -205,6 +219,20 @@ Embedded Firmware Engineer with **4+ years** of experience developing safety-cri
 |:---|:---|:---:|
 | M.Tech – Embedded Systems | Amrita University, Coimbatore | 2021 – 2023 |
 | B.Tech – Electronics & Communication Engineering | Gayathri Vidhya Parishad, Visakhapatnam | 2016 – 2020 |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## Certifications
+
+<div align="center">
+
+| Certification | Issuer | Validity |
+|:---|:---|:---:|
+| **GitHub Copilot Certification (GH-300)** | Microsoft | Sep 2026 – Sep 2028 |
+
+*Skills: GitHub Copilot · Prompt Engineering · Copilot Spaces · Copilot Agent Builder · Microsoft Copilot*
 
 </div>
 
