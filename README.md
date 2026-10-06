@@ -268,6 +268,22 @@ const char *learning_roadmap[] = {
 
 ## Awards & Achievements
 
+### Professional — Robert Bosch (BGSW)
+
+<div align="center">
+
+| | Award | Date | Recognized For |
+|:---:|:---|:---:|:---|
+| 🏆 | Champ-Skill Award | Oct 2026 | Ownership and initiative in addressing urgent **VectorCAST** needs through AI-driven solutions, automation, CI/CD improvements, and collaboration with tools teams |
+| 💎 | Gem — Extra Miler | Dec 2025 | **Copilot Prompt Checklist** innovation, implemented to improve review efficiency and quality |
+| 🏆 | Champ Skill Award | Jul 2025 | Innovation in the **Mercedes Airbags** account through GitHub Copilot initiatives and AI-assisted engineering tools |
+| 👏 | Bravo Award | Dec 2024 | Exceptional commitment and support in Faultlist test activities, proactive learning, collaboration, and delivery |
+| 🚀 | Extra Miler Award | Jul 2024 | Active-learning mindset and commitment to continuous development |
+
+</div>
+
+### Academic & Extracurricular
+
 <div align="center">
 
 | | Award | Details |
