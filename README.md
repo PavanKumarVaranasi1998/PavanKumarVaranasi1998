@@ -283,6 +283,16 @@ Embedded Firmware Engineer with **4+ years** of experience developing safety-cri
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=PavanKumarVaranasi1998&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8)
+
+</div>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -307,6 +317,8 @@ Embedded Firmware Engineer with **4+ years** of experience developing safety-cri
 ## Connect
 
 <div align="center">
+
+### 📌 Open to Embedded / Firmware Engineering opportunities — let's build reliable low-level systems together.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pavan%20Kumar%20Varanasi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavan-kumar-varanasi/)
 [![Gmail](https://img.shields.io/badge/Gmail-pavanvaranasi1998@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pavanvaranasi1998@gmail.com)
